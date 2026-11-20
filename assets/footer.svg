@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="120" viewBox="0 0 1280 120" preserveAspectRatio="none" role="img" aria-label="">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366F1"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+<style>.w1{animation:s1 9s ease-in-out infinite alternate}.w2{animation:s2 11s ease-in-out infinite alternate}@keyframes s1{from{transform:translateX(-60px)}to{transform:translateX(60px)}}@keyframes s2{from{transform:translateX(70px)}to{transform:translateX(-70px)}}</style>
+<path class="w2" d="M-200 70 C 0 20, 200 110, 420 60 S 800 20, 1000 70 S 1300 100, 1500 50 L1500 120 L-200 120 Z" fill="url(#a)" opacity=".28"/>
+<path class="w1" d="M-200 85 C 0 45, 220 115, 440 80 S 820 50, 1020 90 S 1320 110, 1500 75 L1500 120 L-200 120 Z" fill="url(#a)" opacity=".55"/>
+</svg>
