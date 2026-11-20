@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About me
 
-I'm a **backend engineer** at Centralogic India Pvt Ltd (since July 2024) and the **founder** of two companies. I like taking a product from idea to live: API, database, frontend, deployment, automation and growth.
+I'm a **backend engineer** and the **founder** of two companies. I like taking a product from idea to live: API, database, frontend, deployment, automation and growth.
 
 - 🔭 Working on **BeBest**, which shows brands how AI assistants talk about them
 - 🏗️ Shipping several web products with **TypeScript, Next.js and Node.js**
