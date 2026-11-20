@@ -8,6 +8,7 @@
   <a href="https://bebestwithai.com"><img src="https://img.shields.io/badge/BeBest-bebestwithai.com-111827?style=for-the-badge" alt="BeBest" /></a>
   <a href="https://theentrepreneurstory.com"><img src="https://img.shields.io/badge/The%20Entrepreneur%20Story-theentrepreneurstory.com-111827?style=for-the-badge" alt="The Entrepreneur Story" /></a>
   <a href="https://manavkala.com"><img src="https://img.shields.io/badge/Manavkala-manavkala.com-111827?style=for-the-badge" alt="Manavkala" /></a>
+  <a href="https://rentdirect24.com"><img src="https://img.shields.io/badge/RentDirect24-rentdirect24.com-111827?style=for-the-badge" alt="RentDirect24" /></a>
 </p>
 
 ---
@@ -17,6 +18,7 @@
 - **[BeBest](https://bebestwithai.com)** — AI Brand Intelligence. It shows companies how AI assistants talk about their brand, which competitors get recommended instead, and what to change to be seen more often.
 - **[The Entrepreneur Story](https://theentrepreneurstory.com)** — a platform for readers, startups and founders.
 - **[Manavkala](https://manavkala.com)** — a web project I'm building in TypeScript.
+- **[RentDirect24](https://rentdirect24.com)** — a no-broker rental platform for flats, PGs and houses across Indian cities, connecting renters directly with owners.
 
 ## 💼 What I do
 
