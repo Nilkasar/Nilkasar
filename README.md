@@ -1,19 +1,13 @@
-<h1 align="center">Hi, I'm Nilesh 👋</h1>
-
 <p align="center">
-  <a href="https://github.com/Nilkasar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=Founder+of+BeBest+%26+The+Entrepreneur+Story;Backend+Engineer+%C2%B7+Node.js+%26+TypeScript;Building+AI-powered+products+from+India" alt="Typing intro" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Nilkasar/Nilkasar/main/assets/banner.svg" alt="Nilesh Kasar. Founder and backend engineer." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://bebestwithai.com"><img src="https://img.shields.io/badge/BeBest-bebestwithai.com-111827?style=for-the-badge" alt="BeBest" /></a>
-  <a href="https://theentrepreneurstory.com"><img src="https://img.shields.io/badge/The%20Entrepreneur%20Story-theentrepreneurstory.com-111827?style=for-the-badge" alt="The Entrepreneur Story" /></a>
-  <a href="https://manavkala.com"><img src="https://img.shields.io/badge/Manavkala-manavkala.com-111827?style=for-the-badge" alt="Manavkala" /></a>
-  <a href="https://rentdirect24.com"><img src="https://img.shields.io/badge/RentDirect24-rentdirect24.com-111827?style=for-the-badge" alt="RentDirect24" /></a>
+  <a href="https://bebestwithai.com"><img src="https://img.shields.io/badge/BeBest-bebestwithai.com-6366F1?style=for-the-badge" alt="BeBest" /></a>
+  <a href="https://theentrepreneurstory.com"><img src="https://img.shields.io/badge/The%20Entrepreneur%20Story-theentrepreneurstory.com-F59E0B?style=for-the-badge" alt="The Entrepreneur Story" /></a>
+  <a href="https://rentdirect24.com"><img src="https://img.shields.io/badge/RentDirect24-rentdirect24.com-10B981?style=for-the-badge" alt="RentDirect24" /></a>
+  <a href="https://manavkala.com"><img src="https://img.shields.io/badge/Manavkala-manavkala.com-EC4899?style=for-the-badge" alt="Manavkala" /></a>
 </p>
-
----
 
 ## 👨‍💻 About me
 
@@ -24,14 +18,15 @@ I'm a **backend engineer** and the **founder** of two companies. I like taking a
 - ⚙️ Automating content and publishing pipelines with **GitHub Actions**
 - 🌱 Getting better at clean, well-documented backend code
 
-## 🚀 Things I've built
+## ✨ Featured products
 
-| Project | What it is | Link |
-| :-- | :-- | :-- |
-| **BeBest** | AI Brand Intelligence: see how AI assistants represent your brand, which competitors they recommend, and how to get recommended more | [bebestwithai.com](https://bebestwithai.com) |
-| **The Entrepreneur Story** | A platform for readers, startups and founders | [theentrepreneurstory.com](https://theentrepreneurstory.com) |
-| **RentDirect24** | A no-broker rental platform for flats, PGs and houses across Indian cities | [rentdirect24.com](https://rentdirect24.com) |
-| **Manavkala** | A web project built in TypeScript | [manavkala.com](https://manavkala.com) |
+<p align="center">
+  <a href="https://bebestwithai.com"><img width="49%" src="https://raw.githubusercontent.com/Nilkasar/Nilkasar/main/assets/card-bebest.svg" alt="BeBest" /></a>
+  <a href="https://theentrepreneurstory.com"><img width="49%" src="https://raw.githubusercontent.com/Nilkasar/Nilkasar/main/assets/card-entrepreneur-story.svg" alt="The Entrepreneur Story" /></a>
+  <br />
+  <a href="https://rentdirect24.com"><img width="49%" src="https://raw.githubusercontent.com/Nilkasar/Nilkasar/main/assets/card-rentdirect24.svg" alt="RentDirect24" /></a>
+  <a href="https://manavkala.com"><img width="49%" src="https://raw.githubusercontent.com/Nilkasar/Nilkasar/main/assets/card-manavkala.svg" alt="Manavkala" /></a>
+</p>
 
 ## 🛠️ Tech stack
 
@@ -58,12 +53,12 @@ Every square is a day of contributions, and the snake eats them. It is generated
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nilkasar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilkasar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nilkasar&show_icons=true&bg_color=0B1020&title_color=A5B4FC&text_color=E2E8F0&icon_color=22D3EE&border_color=2A3670&border_radius=16" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilkasar&layout=compact&bg_color=0B1020&title_color=A5B4FC&text_color=E2E8F0&border_color=2A3670&border_radius=16" />
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Nilkasar&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Nilkasar&background=0B1020&border=2A3670&stroke=2A3670&ring=22D3EE&fire=818CF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=A5B4FC&sideLabels=A5B4FC&dates=94A3B8&border_radius=16" />
 </p>
 
 <sub>These cards count public repositories only, so they show less than my full activity.</sub>
@@ -76,5 +71,7 @@ Want to know how AI assistants describe your brand? Curious about the products a
   <a href="https://bebestwithai.com"><img src="https://img.shields.io/badge/Website-bebestwithai.com-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:nilesh.kasar@bebestwithai.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<img src="https://raw.githubusercontent.com/Nilkasar/Nilkasar/main/assets/footer.svg" alt="" width="100%" />
 
 <sub>Most of my recent work lives in private repositories, so my contribution graph shows more of the picture than the repo list does.</sub>
