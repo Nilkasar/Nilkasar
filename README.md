@@ -43,6 +43,18 @@ I'm a **backend engineer** and the **founder** of two companies. I like taking a
 
 **DevOps and tools** &nbsp; ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## 📈 My activity
+
+Every square is a day of contributions, and the snake eats them. It is generated from my real GitHub activity and refreshes every 12 hours.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nilkasar/Nilkasar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nilkasar/Nilkasar/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Nilkasar/Nilkasar/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ## 🤝 Let's connect
 
 Want to know how AI assistants describe your brand? Curious about the products above? Or just want to talk startups and backend engineering? I'm happy to chat.
