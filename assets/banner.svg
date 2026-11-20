@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Nilesh Kasar. Founder and backend engineer.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#16204A"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366F1"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#3B4A8F"/></pattern>
+<clipPath id="r"><rect width="1280" height="340" rx="24"/></clipPath>
+<radialGradient id="o1"><stop offset="0" stop-color="#6366F1" stop-opacity=".55"/><stop offset="1" stop-color="#6366F1" stop-opacity="0"/></radialGradient>
+<radialGradient id="o2"><stop offset="0" stop-color="#22D3EE" stop-opacity=".4"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+.hello{font:700 15px 'Segoe UI',Roboto,Helvetica,Arial,sans-serif;fill:#22D3EE;letter-spacing:4px}
+.name{font:800 64px 'Segoe UI',Roboto,Helvetica,Arial,sans-serif;fill:#FFFFFF}
+.sub{font:500 21px 'Segoe UI',Roboto,Helvetica,Arial,sans-serif;fill:#A5B4FC}
+.pill{font:600 15px 'Segoe UI',Roboto,Helvetica,Arial,sans-serif;fill:#E2E8F0}
+.code{font:500 15.5px SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+.fade{opacity:0;animation:fi .7s ease-out forwards}
+.o1{animation:f1 12s ease-in-out infinite}
+.o2{animation:f2 14s ease-in-out infinite}
+.bar{transform-origin:70px 190px;animation:gr 1.2s ease-out .3s both}
+@keyframes fi{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+@keyframes f1{0%,100%{transform:translate(0,0)}50%{transform:translate(60px,30px)}}
+@keyframes f2{0%,100%{transform:translate(0,0)}50%{transform:translate(-70px,-25px)}}
+@keyframes gr{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+</style>
+<g clip-path="url(#r)">
+<rect width="1280" height="340" fill="url(#bg)"/>
+<rect width="1280" height="340" fill="url(#dots)" opacity=".5"/>
+<circle class="o1" cx="260" cy="60" r="260" fill="url(#o1)"/>
+<circle class="o2" cx="1100" cy="300" r="280" fill="url(#o2)"/>
+</g>
+<rect x=".5" y=".5" width="1279" height="339" rx="24" fill="none" stroke="#2A3670"/>
+<text class="hello fade" x="70" y="88">HELLO, I'M</text>
+<text class="name fade" style="animation-delay:.15s" x="68" y="156">Nilesh Kasar</text>
+<rect class="bar" x="70" y="178" width="140" height="5" rx="2.5" fill="url(#ac)"/>
+<text class="sub fade" style="animation-delay:.45s" x="70" y="222">Founder · Backend Engineer · Building AI-powered products</text>
+<g class="fade" style="animation-delay:0.9s"><rect x="70" y="246" width="82" height="36" rx="18" fill="#141C42" stroke="#334088"/><circle cx="88" cy="264" r="4" fill="url(#ac)"/><text class="pill" x="100" y="270">BeBest</text></g><g class="fade" style="animation-delay:1.05s"><rect x="164" y="246" width="217" height="36" rx="18" fill="#141C42" stroke="#334088"/><circle cx="182" cy="264" r="4" fill="url(#ac)"/><text class="pill" x="194" y="270">The Entrepreneur Story</text></g><g class="fade" style="animation-delay:1.2s"><rect x="393" y="246" width="133" height="36" rx="18" fill="#141C42" stroke="#334088"/><circle cx="411" cy="264" r="4" fill="url(#ac)"/><text class="pill" x="423" y="270">RentDirect24</text></g><g class="fade" style="animation-delay:1.35s"><rect x="538" y="246" width="108" height="36" rx="18" fill="#141C42" stroke="#334088"/><circle cx="556" cy="264" r="4" fill="url(#ac)"/><text class="pill" x="568" y="270">Manavkala</text></g>
+<g class="fade" style="animation-delay:.2s"><rect x="770" y="62" width="460" height="216" rx="14" fill="#0A1030" stroke="#2A3670"/><circle cx="792" cy="84" r="5.5" fill="#F87171"/><circle cx="812" cy="84" r="5.5" fill="#FBBF24"/><circle cx="832" cy="84" r="5.5" fill="#34D399"/><line x1="770" y1="102" x2="1230" y2="102" stroke="#1E2A5A"/></g>
+<text class="code fade" style="animation-delay:0.5s" x="796" y="142" xml:space="preserve"><tspan fill="#22D3EE">const</tspan> <tspan fill="#F8FAFC">nilesh</tspan> <tspan fill="#94A3B8">= {</tspan></text>
+<text class="code fade" style="animation-delay:0.85s" x="796" y="172" xml:space="preserve">  <tspan fill="#A5B4FC">role</tspan><tspan fill="#94A3B8">:</tspan> <tspan fill="#86EFAC">"Founder &amp; Backend Engineer"</tspan><tspan fill="#94A3B8">,</tspan></text>
+<text class="code fade" style="animation-delay:1.2s" x="796" y="202" xml:space="preserve">  <tspan fill="#A5B4FC">stack</tspan><tspan fill="#94A3B8">:</tspan> <tspan fill="#86EFAC">["TypeScript", "Node.js", "Next.js"]</tspan><tspan fill="#94A3B8">,</tspan></text>
+<text class="code fade" style="animation-delay:1.5499999999999998s" x="796" y="232" xml:space="preserve">  <tspan fill="#A5B4FC">building</tspan><tspan fill="#94A3B8">:</tspan> <tspan fill="#86EFAC">["BeBest", "RentDirect24"]</tspan><tspan fill="#94A3B8">,</tspan></text>
+<text class="code fade" style="animation-delay:1.9s" x="796" y="262" xml:space="preserve">  <tspan fill="#A5B4FC">location</tspan><tspan fill="#94A3B8">:</tspan> <tspan fill="#86EFAC">"India"</tspan><tspan fill="#94A3B8">,</tspan></text>
+<text class="code fade" style="animation-delay:2.25s" x="796" y="292" xml:space="preserve"><tspan fill="#94A3B8">};</tspan></text>
+</svg>
