@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Nilesh 👋</h1>
 
 <p align="center">
-  Founder · Backend Engineer · Builder of AI-powered products
+  <a href="https://github.com/Nilkasar">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=Founder+of+BeBest+%26+The+Entrepreneur+Story;Backend+Engineer+%C2%B7+Node.js+%26+TypeScript;Building+AI-powered+products+from+India" alt="Typing intro" />
+  </a>
 </p>
 
 <p align="center">
@@ -13,40 +15,41 @@
 
 ---
 
-## 🚀 What I'm building
+## 👨‍💻 About me
 
-- **[BeBest](https://bebestwithai.com)** — AI Brand Intelligence. It shows companies how AI assistants talk about their brand, which competitors get recommended instead, and what to change to be seen more often.
-- **[The Entrepreneur Story](https://theentrepreneurstory.com)** — a platform for readers, startups and founders.
-- **[Manavkala](https://manavkala.com)** — a web project I'm building in TypeScript.
-- **[RentDirect24](https://rentdirect24.com)** — a no-broker rental platform for flats, PGs and houses across Indian cities, connecting renters directly with owners.
+I'm a **backend engineer** at Centralogic India Pvt Ltd (since July 2024) and the **founder** of two companies. I like taking a product from idea to live: API, database, frontend, deployment, automation and growth.
 
-## 💼 What I do
+- 🔭 Working on **BeBest**, which shows brands how AI assistants talk about them
+- 🏗️ Shipping several web products with **TypeScript, Next.js and Node.js**
+- ⚙️ Automating content and publishing pipelines with **GitHub Actions**
+- 🌱 Getting better at clean, well-documented backend code
 
-Backend engineer at **Centralogic India Pvt Ltd** (since July 2024), working on APIs, data and server-side systems. Outside work I run two products end to end: backend, frontend, deployment, automation and growth.
+## 🚀 Things I've built
 
-## 🛠️ Tech I work with
+| Project | What it is | Link |
+| :-- | :-- | :-- |
+| **BeBest** | AI Brand Intelligence: see how AI assistants represent your brand, which competitors they recommend, and how to get recommended more | [bebestwithai.com](https://bebestwithai.com) |
+| **The Entrepreneur Story** | A platform for readers, startups and founders | [theentrepreneurstory.com](https://theentrepreneurstory.com) |
+| **RentDirect24** | A no-broker rental platform for flats, PGs and houses across Indian cities | [rentdirect24.com](https://rentdirect24.com) |
+| **Manavkala** | A web project built in TypeScript | [manavkala.com](https://manavkala.com) |
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+## 🛠️ Tech stack
 
-## 🌱 Focus right now
+**Languages** &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- Making brands visible in AI assistant answers with BeBest
-- Automated content and publishing pipelines (scheduled workflows on GitHub Actions)
-- Writing cleaner, better-documented backend code
+**Frontend** &nbsp; ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-## 📫 Get in touch
+**Backend and data** &nbsp; ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-- 🌐 [bebestwithai.com](https://bebestwithai.com)
-- ✉️ [nilesh.kasar@bebestwithai.com](mailto:nilesh.kasar@bebestwithai.com)
+**DevOps and tools** &nbsp; ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<sub>Most of my recent work is in private repositories, so the contribution graph shows the real picture.</sub>
+## 🤝 Let's connect
+
+Want to know how AI assistants describe your brand? Curious about the products above? Or just want to talk startups and backend engineering? I'm happy to chat.
+
+<p>
+  <a href="https://bebestwithai.com"><img src="https://img.shields.io/badge/Website-bebestwithai.com-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:nilesh.kasar@bebestwithai.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<sub>Most of my recent work lives in private repositories, so my contribution graph shows more of the picture than the repo list does.</sub>
