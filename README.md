@@ -55,6 +55,19 @@ Every square is a day of contributions, and the snake eats them. It is generated
   </picture>
 </p>
 
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nilkasar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilkasar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Nilkasar&theme=tokyonight&hide_border=true" />
+</p>
+
+<sub>These cards count public repositories only, so they show less than my full activity.</sub>
+
 ## 🤝 Let's connect
 
 Want to know how AI assistants describe your brand? Curious about the products above? Or just want to talk startups and backend engineering? I'm happy to chat.
