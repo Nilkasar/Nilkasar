@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" role="img" aria-label="BeBest">
+<defs>
+<linearGradient id="ga" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#818CF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+<linearGradient id="ba" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F172A"/><stop offset="1" stop-color="#151B3D"/></linearGradient>
+<clipPath id="ca"><rect width="600" height="200" rx="16"/></clipPath>
+</defs>
+<style>
+.t{font:700 26px 'Segoe UI',Roboto,Helvetica,Arial,sans-serif;fill:#F8FAFC}
+.d{font:400 14.5px 'Segoe UI',Roboto,Helvetica,Arial,sans-serif;fill:#CBD5E1}
+.u{font:600 13.5px 'Segoe UI',Roboto,Helvetica,Arial,sans-serif;fill:#818CF8}
+.g{font:700 11px 'Segoe UI',Roboto,Helvetica,Arial,sans-serif;fill:#0B1020;letter-spacing:.7px}
+.glow{animation:pl 4s ease-in-out infinite}
+.arrow{animation:mv 2s ease-in-out infinite}
+@keyframes pl{0%,100%{opacity:.22}50%{opacity:.5}}
+@keyframes mv{0%,100%{transform:translateX(0)}50%{transform:translateX(7px)}}
+</style>
+<rect x=".5" y=".5" width="599" height="199" rx="16" fill="url(#ba)" stroke="#26325F"/>
+<g clip-path="url(#ca)"><circle class="glow" cx="545" cy="25" r="95" fill="url(#ga)"/></g>
+<rect x="0" y="26" width="5" height="148" rx="2.5" fill="url(#ga)"/>
+<rect x="28" y="26" width="208" height="22" rx="11" fill="url(#ga)"/>
+<text class="g" x="40" y="41">AI · BRAND INTELLIGENCE</text>
+<text class="t" x="28" y="88">BeBest</text>
+<text class="d" x="28" y="118">See how AI assistants represent your brand, which competitors</text>
+<text class="d" x="28" y="140">they recommend, and how to get recommended more.</text>
+<text class="u" x="28" y="176">bebestwithai.com</text>
+<g class="arrow"><path d="M540 170h28m-9-9 9 9-9 9" stroke="url(#ga)" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
